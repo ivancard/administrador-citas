@@ -1,0 +1,23 @@
+# Administrador de citas - Veterinaria.
+
+Proyecto hecho en HTML, CSS y JavaScript para administrar las citas de una veterinaria.
+
+Cuenta con las funciones de:
+
+-   Crear una cita ingresando:
+
+    -   Nombre de mascota.
+    -   Nombre del dueño.
+    -   Telefono
+    -   Dia y fecha del turno.
+    -   Sintomas de la mascota.
+
+-   Editar la cita en caso de un error.
+    -   Se agrega un botón en cada cita para editarla y reescribirla.
+-   Borrar citas.
+    -   Se agrega un botón en cada cita para eliminarla.
+
+## Tareas realizadas
+
+-   Se codificó solo el archivo JavaScript sobre un HTML y CSS desarrollado por otra persona.
+-   Se utilizó paradigma de programación orientado a objetos, manipulacion del dom y aproximaciones de programación funcional.
