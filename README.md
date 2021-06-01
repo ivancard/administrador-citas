@@ -22,3 +22,5 @@ Cuenta con las funciones de:
 -   Se codificó solo el archivo JavaScript sobre un HTML y CSS desarrollado por otra persona.
 -   Se utilizó paradigma de programación orientado a objetos, manipulacion del DOM y aproximaciones de programación funcional.
 -   Se modularizó los archivos JavaScript para una mejor comprensión y escalabilidad.
+
+[Probá la aplicación haciendo click aquí](https://ivancard.github.io/administrador-citas/)
